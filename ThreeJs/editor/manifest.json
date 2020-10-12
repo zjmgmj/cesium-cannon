@@ -1,0 +1,14 @@
+{
+  "name": "工艺模拟器",
+  "short_name": "工艺模拟器",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "icons": [
+    {
+      "src": "./images/icon.png",
+      "type": "image/png",
+      "sizes": "144x144"
+    }
+  ]
+}
